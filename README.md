@@ -1,4 +1,4 @@
-https://nextjs-myblog.vercel.app/about
+https://nextjs-myblog.vercel.app/about is under construction!!
 
 <!--
 **nbblk/nbblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
