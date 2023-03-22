@@ -1,4 +1,7 @@
-https://nextjs-myblog.vercel.app/about is under construction!!
+
+https://nextjs-myblog.vercel.app/about is my old website, and you can check out my brief career & education history here.
+<br/> I know...😂 just looking for the right timing to recreate the website.<br/>
+I also have a goal this year to write more consistently about what I read/how I've been learning something bi-daily, if possible, or maybe once a week. If you're interested, take a look at https://medium.com/@nbblks.
 
 <!--
 **nbblk/nbblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
