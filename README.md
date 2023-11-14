@@ -1,19 +1,14 @@
 
-https://nextjs-myblog.vercel.app/about is my old website, and you can check out my brief career & education history here.
-<br/> I know...😂 just looking for the right timing to recreate the website.<br/>
-I also have a goal this year to write more consistently about what I read/how I've been learning something bi-daily, if possible, or maybe once a week. If you're interested, take a look at https://medium.com/@nbblks.
-
-<!--
-**nbblk/nbblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://blake-sim.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... something I've ignored so far like data structures(!)
+- 🌱 I’m currently learning ... user interactive design and ikigai
+- 👯 I’m looking to collaborate on ... my random side project which has not been elborated yet and opensource projects
+- 🤔 I’m looking for help with ... people who are master of laser-focus
+- 💬 Ask me about ... everything
+- 📫 How to reach me: ... click the link above :)
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I am a cat person but allergic to them :(
 -->
